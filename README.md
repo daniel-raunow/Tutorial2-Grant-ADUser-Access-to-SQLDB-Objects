@@ -1,0 +1,1 @@
+# Tutorial2-Grant-ADUser-Access-to-SQLDB-Objects
